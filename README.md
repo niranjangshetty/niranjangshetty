@@ -8,9 +8,9 @@
 
 ## About
 
-Early-career data professional with a background in life sciences (BSc — Chemistry, Botany, Biotechnology) who pivoted into data engineering and AI. Currently interning as a Data Engineer at **Thero AI** and completing a PG programme with a Gen AI specialization.
+Early-career data professional with a life sciences background (BSc — Chemistry, Botany, Biotechnology), now focused on data engineering and AI systems. Currently interning as a Data Engineer at Thero AI.
 
-I build end-to-end pipelines, RAG systems, and agentic AI applications — and I enjoy the full stack from raw data to deployed product.
+I build end-to-end pipelines, RAG systems, and agentic AI applications — from raw data to deployed systems.
 
 ---
 
