@@ -49,7 +49,6 @@ I build end-to-end pipelines, RAG systems, and agentic AI applications — and I
 ---
 
 ## Connect
-
-📫 [niranjangshetty@gmail.com](mailto:niranjangshetty@gmail.com)  
+ 
 💼 [linkedin.com/in/niranjangshetty](https://linkedin.com/in/niranjangshetty)  
 🐙 [github.com/niranjangshetty](https://github.com/niranjangshetty)
